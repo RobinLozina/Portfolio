@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^$ /portfolio [R=302,L]
+
+Options -Indexes
+
+DirectoryIndex index.html
