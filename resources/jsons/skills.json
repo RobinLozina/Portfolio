@@ -1,0 +1,80 @@
+{
+  "skills_categories": [
+    {
+      "name": "Languages",
+      "skills": [
+        {
+          "name": "C",
+          "logo": "resources/svgs/skills/C.svg",
+          "link": "https://en.wikipedia.org/wiki/C_(programming_language)"
+        },
+        {
+          "name": "C#",
+          "logo": "resources/svgs/skills/C_sharp.svg",
+          "link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+        },
+        {
+          "name": "Python",
+          "logo": "resources/svgs/skills/Python.svg",
+          "link": "https://www.python.org/"
+        }
+      ]
+    },
+    {
+      "name": "Front-end",
+      "skills": [
+        {
+          "name": "JavaScript",
+          "logo": "resources/svgs/skills/JavaScript.svg",
+          "link": "https://vuejs.org/"
+        },
+        {
+          "name": "Vue.js",
+          "logo": "resources/svgs/skills/Vue.svg",
+          "link": "https://en.wikipedia.org/wiki/JavaScript"
+        },
+        {
+          "name": "Tailwind",
+          "logo": "resources/svgs/skills/Tailwind.svg",
+          "link": "https://tailwindcss.com/"
+        }
+      ]
+    },
+    {
+      "name": "Back-end",
+      "skills": [
+        {
+          "name": "Python",
+          "logo": "resources/svgs/skills/Python.svg",
+          "link": "https://www.python.org/"
+        },
+        {
+          "name": "Flask",
+          "logo": "resources/svgs/skills/Flask.svg",
+          "link": "https://flask.palletsprojects.com/"
+        },
+        {
+          "name": "SQL",
+          "logo": "resources/svgs/skills/Sql.svg",
+          "link": "https://sql.sh"
+        }
+      ]
+    },
+
+    {
+      "name": "Others",
+      "skills": [
+        {
+          "name": "Git",
+          "logo": "resources/svgs/skills/Git.svg",
+          "link": "https://git-scm.com/"
+        },
+        {
+          "name": "Unity",
+          "logo": "resources/svgs/skills/Unity.svg",
+          "link": "https://git-scm.com/"
+        }
+      ]
+    }
+  ]
+}

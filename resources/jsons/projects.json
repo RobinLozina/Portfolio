@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "date": 2024,
+      "type": "Personal Project",
+      "title": "Whozit?",
+      "description": "A Guess Who clone created with real-time interaction using Vue, Tailwind, Django, and Websockets for dynamic gameplay.",
+      "tags": [
+        { "name": "Vue", "url": "https://vuejs.org/" },
+        { "name": "Tailwind CSS", "url": "https://tailwindcss.com/" },
+        { "name": "Django", "url": "https://www.djangoproject.com/" },
+        {
+          "name": "Websockets",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+        }
+      ],
+      "links": [
+        "https://github.com/RobinLozina/Whozit",
+        "https://github.com/RobinLozina/Whozit",
+        "none"
+      ],
+      "logo": "resources/svgs/projects/Whozit.svg"
+    },
+    {
+      "date": 2024,
+      "type": "Personal Project",
+      "title": "Bolted UP",
+      "description": "A tool to calculate nuts and screws requirements efficiently, built using JavaScript, Sass, and Flask.",
+      "tags": [
+        {
+          "name": "JavaScript",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        { "name": "Sass", "url": "https://sass-lang.com/" },
+        { "name": "Flask", "url": "https://flask.palletsprojects.com/" }
+      ],
+      "links": [
+        "https://github.com/RobinLozina/Bolted-UP",
+        "https://github.com/RobinLozina/Bolted-UP",
+        "none"
+      ],
+      "logo": "resources/svgs/projects/Bolted.svg"
+    },
+    {
+      "date": 2023,
+      "type": "Personal Project",
+      "title": "AI Playing Street Fighter 2",
+      "description": "An AI agent trained with PyTorch to play Street Fighter II, using reinforcement learning and Gym Retro integration.",
+      "tags": [
+        { "name": "Python", "url": "https://www.python.org/" },
+        { "name": "PyTorch", "url": "https://pytorch.org/" }
+      ],
+      "links": [
+        "https://github.com/RobinLozina/AI-Playing-Street-Fighter-2",
+        "https://github.com/RobinLozina/AI-Playing-Street-Fighter-2",
+        "none"
+      ],
+      "logo": "resources/svgs/projects/Street.svg"
+    },
+    {
+      "date": 2022,
+      "type": "School Project",
+      "title": "Project Scheduler",
+      "description": "A C-based application for calculating the critical path and managing project timelines by analyzing task dependencies.",
+      "tags": [
+        {
+          "name": "C",
+          "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+        }
+      ],
+      "links": [
+        "https://github.com/RobinLozina/project_scheduler",
+        "https://github.com/RobinLozina/project_scheduler",
+        "none"
+      ],
+      "logo": "resources/svgs/projects/Scheduler.svg"
+    },
+
+    {
+      "date": 2021,
+      "type": "Personal Project",
+      "title": "Portfolio",
+      "description": "A responsive portfolio website showcasing my projects, made with only HTML, CSS, and basic JavaScript.",
+      "tags": [
+        { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+        { "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" },
+        {
+          "name": "JavaScript",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        }
+      ],
+      "links": [
+        "https://github.com/username/Portfolio",
+        "https://github.com/username/Portfolio",
+        "none"
+      ],
+      "logo": "resources/svgs/projects/Portfolio.svg"
+    }
+  ]
+}
